@@ -1,6 +1,8 @@
 # peachhub-provider
 
 [![travis](https://travis-ci.org/peachcloud/peachhub-provider.svg?branch=master)](https://travis-ci.org/peachcloud/peachhub-provider)
+[![Backers on Open Collective](https://opencollective.com/peachcloud/backers/badge.svg)](#backers)
+[![Sponsors on Open Collective](https://opencollective.com/peachcloud/sponsors/badge.svg)](#sponsors)
 
 a hosted Scuttlebutt pub-as-a-service provider
 
@@ -255,6 +257,32 @@ echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo s
 https://www.red-gate.com/simple-talk/wp-content/uploads/imported/1269-Locators_table_1_0_2.pdf?file=4937
 
 > The css selectors that look like <element>:contains("text") dont work, i googled it, apparently that kind of selector is a jquery thing :shrug:
+
+## Contributors
+
+This project exists thanks to all the people who contribute.
+<a href="https://github.com/peachcloud/peachhub-provider/graphs/contributors"><img src="https://opencollective.com/peachcloud/contributors.svg?width=890&button=false" /></a>
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/peachcloud#backer)]
+
+<a href="https://opencollective.com/peachcloud#backers" target="_blank"><img src="https://opencollective.com/peachcloud/backers.svg?width=890"></a>
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/peachcloud#sponsor)]
+
+<a href="https://opencollective.com/peachcloud/sponsor/0/website" target="_blank"><img src="https://opencollective.com/peachcloud/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/peachcloud/sponsor/1/website" target="_blank"><img src="https://opencollective.com/peachcloud/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/peachcloud/sponsor/2/website" target="_blank"><img src="https://opencollective.com/peachcloud/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/peachcloud/sponsor/3/website" target="_blank"><img src="https://opencollective.com/peachcloud/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/peachcloud/sponsor/4/website" target="_blank"><img src="https://opencollective.com/peachcloud/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/peachcloud/sponsor/5/website" target="_blank"><img src="https://opencollective.com/peachcloud/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/peachcloud/sponsor/6/website" target="_blank"><img src="https://opencollective.com/peachcloud/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/peachcloud/sponsor/7/website" target="_blank"><img src="https://opencollective.com/peachcloud/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/peachcloud/sponsor/8/website" target="_blank"><img src="https://opencollective.com/peachcloud/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/peachcloud/sponsor/9/website" target="_blank"><img src="https://opencollective.com/peachcloud/sponsor/9/avatar.svg"></a>
 
 ## license
 
